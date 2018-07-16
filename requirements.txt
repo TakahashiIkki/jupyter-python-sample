@@ -7,6 +7,7 @@ html5lib==1.0.1
 ipykernel==4.8.2
 ipython==6.4.0
 ipython-genutils==0.2.0
+ipython-sql==0.3.9
 ipywidgets==7.2.1
 jedi==0.12.1
 Jinja2==2.10
@@ -24,8 +25,10 @@ pandocfilters==1.4.2
 parso==0.3.1
 pexpect==4.6.0
 pickleshare==0.7.4
+prettytable==0.7.2
 prometheus-client==0.3.0
 prompt-toolkit==1.0.15
+psycopg2==2.7.5
 ptyprocess==0.6.0
 Pygments==2.2.0
 python-dateutil==2.7.3
@@ -34,6 +37,8 @@ qtconsole==4.3.1
 Send2Trash==1.5.0
 simplegeneric==0.8.1
 six==1.11.0
+SQLAlchemy==1.2.10
+sqlparse==0.2.4
 terminado==0.8.1
 testpath==0.3.1
 tornado==5.1
